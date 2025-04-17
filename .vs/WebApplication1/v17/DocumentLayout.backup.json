@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B25032C-5F20-4C6A-A7DB-2B804FC8FEE7}|WebApplication1.csproj|c:\\users\\mahmo\\documents\\graduation project\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B25032C-5F20-4C6A-A7DB-2B804FC8FEE7}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B25032C-5F20-4C6A-A7DB-2B804FC8FEE7}|WebApplication1.csproj|c:\\users\\mahmo\\documents\\graduation project\\webapplication1\\controllers\\residencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B25032C-5F20-4C6A-A7DB-2B804FC8FEE7}|WebApplication1.csproj|solutionrelative:controllers\\residencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B25032C-5F20-4C6A-A7DB-2B804FC8FEE7}|WebApplication1.csproj|c:\\users\\mahmo\\documents\\graduation project\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B25032C-5F20-4C6A-A7DB-2B804FC8FEE7}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T21:24:34.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResidenceController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication1\\Controllers\\ResidenceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResidenceController.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication1\\Controllers\\ResidenceController.cs",
+              "RelativeToolTip": "Controllers\\ResidenceController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:17:26.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Documents\\Graduation Project\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:08:55.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
